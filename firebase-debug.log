@@ -1,0 +1,28 @@
+[debug] [2019-12-26T23:26:30.463Z] ----------------------------------------------------------------------
+[debug] [2019-12-26T23:26:30.467Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\dell\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2019-12-26T23:26:30.468Z] CLI Version:   7.11.0
+[debug] [2019-12-26T23:26:30.468Z] Platform:      win32
+[debug] [2019-12-26T23:26:30.468Z] Node Version:  v10.16.0
+[debug] [2019-12-26T23:26:30.469Z] Time:          Fri Dec 27 2019 01:26:30 GMT+0200 (Eastern European Standard Time)
+[debug] [2019-12-26T23:26:30.469Z] ----------------------------------------------------------------------
+[debug] [2019-12-26T23:26:30.469Z] 
+[debug] [2019-12-26T23:26:30.482Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-12-26T23:26:30.483Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\dell\Desktop\freshlaravel\ApiTask
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
