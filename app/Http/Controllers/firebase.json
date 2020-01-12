@@ -1,4 +1,4 @@
-{
+/*{
   "type": "service_account",
   "project_id": "api-task-3774a",
   "private_key_id": "e428162863d24e0f836c974368bd0420a500e338",
@@ -9,4 +9,6 @@
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
   "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-18sw8%40api-task-3774a.iam.gserviceaccount.com"
-}
+}*/
+// service_account from your project on fire base 
+
